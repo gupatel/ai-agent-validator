@@ -1,1 +1,5 @@
+run.text
 run.txt
+logs/
+__pycache__/
+*.pyc
